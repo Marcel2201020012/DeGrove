@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdkVersion 29
+    compileSdk 29
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.imagepro"
+        applicationId 'com.example.DeGrove'
         minSdkVersion 21
-        targetSdkVersion 29
+        targetSdk 21
         versionCode 1
         versionName "1.0"
 

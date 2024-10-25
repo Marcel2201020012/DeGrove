@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/white">
+    <item>
+        <shape>
+            <corners android:radius="999dp"></corners>
+            <solid android:color="@color/biru_splash_logo_2"></solid>
+            <stroke android:color="@color/biru_splash_logo" android:width="5dp"></stroke>
+        </shape>
+    </item>
+</ripple>

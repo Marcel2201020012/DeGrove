@@ -1,0 +1,21 @@
+Akar Bruguiera
+Akar Lumnitzera littorea
+Akar Rhizopora apriculata
+Akar Rhizopora mucronata
+Akar Rhizopora stylosa
+Buah Lumnitzera littorea
+Buah Rhizopora apriculata
+Buah Rhizopora mucronata
+Buah Rhizopora stylosa
+Bunga Rhizopora apriculata
+Bunga Rhizopora stylosa
+Daun Bruguiera
+Daun Lumnitzera littorea
+Daun Rhizopora apriculata
+Daun Rhizopora mucronata
+Daun Rhizopora stylosa
+Bruguiera
+Lumnitzera littorea
+Rhizopora apriculata
+Rhizopora mucronata
+Rhizopora stylosa
